@@ -7,16 +7,6 @@
   <img src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/200w.webp?cid=ecf05e4772o31j3fz6u78mngg15jlbi0a7dv3d5qk5zvm4ef&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
 </div>
 
-### My other media :
-<div id="badges">
-  <a href="https://gitlab.com/bapthub">
-    <img src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bbucamp/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -36,4 +26,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bapthub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### My other media :
+<div id="badges">
+  <a href="https://gitlab.com/bapthub">
+    <img src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bbucamp/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
