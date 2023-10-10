@@ -3,6 +3,16 @@
 - 🌱 I’m currently learning some data engineering stuff
 - 😄 Pronouns: he/him
 
+### My other media :
+<div id="badges">
+  <a href="https://gitlab.com/bapthub">
+    <img src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bbucamp/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -19,13 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
-### My other media :
-<div id="badges">
-  <a href="https://gitlab.com/bapthub">
-    <img src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bbucamp/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bapthub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
