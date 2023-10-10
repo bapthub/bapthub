@@ -1,11 +1,8 @@
-### Hi there and welcome on the bapthub profile page👋
+### Hi there and welcome to the bapthub profile page👋
 
-- 🌱 I’m currently learning data engineering stuff
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: see my linke
+- 🌱 I’m currently learning some data engineering stuff
 - 😄 Pronouns: he/him
 
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -22,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
-My other media :
+### My other media :
 <div id="badges">
   <a href="https://gitlab.com/bapthub">
     <img src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab Badge"/>
