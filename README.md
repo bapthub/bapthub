@@ -1,3 +1,6 @@
+<h1>
+  <img src="https://media2.giphy.com/media/JWuBH9rCO2uZuHBFpm/200w.webp?cid=ecf05e4772o31j3fz6u78mngg15jlbi0a7dv3d5qk5zvm4ef&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px"/>
+</h1>
 ### Hi there and welcome to the bapthub profile page👋
 
 - 🌱 I’m currently learning some data engineering stuff
