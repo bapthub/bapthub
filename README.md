@@ -1,4 +1,4 @@
-### Hi there and welcome to the bapthub profile page👋
+### Hi there and welcome to my profile page👋
 
 Passionate about Python programming, I am a diligent and persevering Data Engineer who studied at EPITA. My educational journey and experiences during my internship have honed my expertise in data management, along with essential skills like CI/CD, Unix systems, algorithm design, and optimization.
 
