@@ -1,6 +1,6 @@
 ### Hi there and welcome to my profile page👋
 
-- 📖 Passionate about Python programming, I am a diligent and persevering Data Engineer who studied at EPITA. My educational journey and experiences during my internship have honed my expertise in data management, along with essential skills like CI/CD, Unix systems, algorithm design, and optimization.
+- 📖 Passionate about Python programming, I am a diligent and persevering Data Engineer who studied at EPITA. My educational journey and experiences during my apprenticeship have honed my expertise in data management, along with essential skills like CI/CD, Unix systems, algorithm design, and optimization.
 
 - ☁️ I am also deeply interested in the realm of cloud computing, particularly Google Cloud Platform (GCP), where I hold two certifications: Professional Data Engineer and Associate Cloud Engineer.
 
